@@ -384,7 +384,7 @@ This project demonstrates practical knowledge of:
 
 # 👨‍💻 Author
 
-**Barin Ghosh**
+**Charumathy T*
 
 B.Tech Computer Science & Engineering | Data Engineering Enthusiast
 
