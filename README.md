@@ -2,14 +2,15 @@
 
 Welcome to my Data Engineering portfolio!
 
-This repository contains projects and practical explorations focused on data engineering, data pipelines, cloud technologies, data warehousing, and analytics.
+This repository showcases my learning, hands-on implementations, and explorations in data engineering, data pipelines, cloud technologies, data warehousing, and analytics.
 
 ## Projects
 
 ### 1. Uber Data Engineering Platform
 
-An end-to-end data engineering project exploring a modern data platform using:
+An end-to-end data engineering project exploring a modern data platform and data transformation workflows.
 
+**Technologies:**
 - Databricks
 - PySpark
 - Delta Lake
@@ -18,14 +19,13 @@ An end-to-end data engineering project exploring a modern data platform using:
 - SQL
 - Medallion Architecture (Bronze, Silver, Gold)
 
-**Project folder:** [Uber_Data_Engineering](./Uber_Data_Engineering/)
-
-**Original project reference:** https://github.com/Barin99/Uber_Data_Engineering_Platform
+[Explore Project](./Uber_Data_Engineering/)
 
 ### 2. Airbnb Data Engineering
 
-A data engineering project exploring a cloud-based data warehouse and transformation workflow using:
+A cloud-based data engineering project exploring data ingestion, warehousing, transformation, and modelling.
 
+**Technologies:**
 - AWS S3
 - Snowflake
 - dbt
@@ -34,13 +34,11 @@ A data engineering project exploring a cloud-based data warehouse and transforma
 - Data Modelling
 - Medallion Architecture
 
-**Project folder:** [Airbnb_Data_Engineering](./Airbnb_Data_Engineering/)
-
-**Original project reference:** https://github.com/anshlambagit/Airbnb_Snowflake_DBT_Data_Engineer_Project
+[Explore Project](./Airbnb_Data_Engineering/)
 
 ---
 
-## Technologies
+## Technical Skills & Technologies
 
 SQL | Python | PySpark | Databricks | AWS | Snowflake | dbt | Apache Airflow
 
